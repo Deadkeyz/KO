@@ -1,0 +1,10 @@
+{
+  "name":"VIP TOKEN",
+  "symbol":"VSOL",
+  "description":"OKLM",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/KO/main/4logo.png",
+  "websites":[{"label":"Website","url":"https://ichi.zeb"}],
+  "socials":[{"url":"https://x.com/ichi","type":"twitter"},
+  {"url":"https://t.me/ichi","type":"telegram"}]
+}
+
